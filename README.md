@@ -20,7 +20,8 @@ B - Торомжение.
 ![image](https://user-images.githubusercontent.com/55016045/111512741-20650180-8761-11eb-8c32-9bac4e404ceb.png)
 ***
 Скриншот процесса полета
-![image](https://user-images.githubusercontent.com/55016045/111508403-b8acb780-875c-11eb-8e22-095d11564fde.png)
+![image](https://user-images.githubusercontent.com/55016045/111517560-417c2100-8766-11eb-890f-61ab20e4b2de.png)
+
 ***
 ## Инструкции по запуску
 ***
