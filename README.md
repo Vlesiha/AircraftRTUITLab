@@ -17,7 +17,7 @@ B - Торомжение.
 ***
 ### Скриншоты проекта 
 Главное меню симулятора
-![image](https://user-images.githubusercontent.com/55016045/111510200-9b78e880-875e-11eb-943f-a7d6ea077a24.png)
+![image](https://user-images.githubusercontent.com/55016045/111512741-20650180-8761-11eb-8c32-9bac4e404ceb.png)
 ***
 Скриншот процесса полета
 ![image](https://user-images.githubusercontent.com/55016045/111508403-b8acb780-875c-11eb-8e22-095d11564fde.png)
